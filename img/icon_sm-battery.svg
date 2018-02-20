@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_sm-battery</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13,0 L45,-1.77635684e-15 C52.1797017,-3.09524665e-15 58,5.82029825 58,13 L58,45 C58,52.1797017 52.1797017,58 45,58 L13,58 C5.82029825,58 2.29133111e-15,52.1797017 -1.77635684e-15,45 L-1.77635684e-15,13 C-2.65561672e-15,5.82029825 5.82029825,-4.57467025e-16 13,-1.77635684e-15 Z M12,20 L43,20 C44.1045695,20 45,20.8954305 45,22 L45,35 C45,36.1045695 44.1045695,37 43,37 L12,37 C10.8954305,37 10,36.1045695 10,35 L10,22 C10,20.8954305 10.8954305,20 12,20 Z M46.9809513,24.9566973 C48.9936504,25.169146 50,26.3612647 50,28.5330536 C50,30.7048425 48.9936504,31.8604913 46.9809513,32 L46.9809513,24.9566973 Z" id="icon_sm-battery" fill="#4CD964"></path>
+    </g>
+</svg>

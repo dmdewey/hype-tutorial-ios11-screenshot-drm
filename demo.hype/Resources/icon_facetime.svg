@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="167px" viewBox="0 0 167 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_facetime</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#78FB96" offset="0%"></stop>
+            <stop stop-color="#00BC27" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_facetime" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bg" fill="url(#linearGradient-1)" x="0" y="0" width="167" height="167" rx="36"></rect>
+            <path d="M32.05,47.3166667 L101.55,47.3166667 C105.415993,47.3166667 108.55,50.4506734 108.55,54.3166667 L108.55,112.683333 C108.55,116.549327 105.415993,119.683333 101.55,119.683333 L32.05,119.683333 C28.1840068,119.683333 25.05,116.549327 25.05,112.683333 L25.05,54.3166667 C25.05,50.4506734 28.1840068,47.3166667 32.05,47.3166667 Z M21.4833333,64.0166667 L23.6583333,64.0166667 L23.6583333,73.7583333 L21.4833333,73.7583333 C20.3787638,73.7583333 19.4833333,72.8629028 19.4833333,71.7583333 L19.4833333,66.0166667 C19.4833333,64.9120972 20.3787638,64.0166667 21.4833333,64.0166667 Z M112.000611,72.289834 L138.479997,55.7605384 L138.479997,111.078978 L112.000611,93.1427191 L112.000611,72.289834 Z M140.558333,55.6666667 L144.733333,55.6666667 L144.733333,111.333333 L140.558333,111.333333 L140.558333,55.6666667 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

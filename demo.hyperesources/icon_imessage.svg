@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="167px" viewBox="0 0 167 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_imessage</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#60F679" offset="0%"></stop>
+            <stop stop-color="#0CBC2A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_imessage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bg" fill="url(#linearGradient-1)" x="0" y="0" width="167" height="167" rx="36"></rect>
+            <path d="M64.3588292,129.297282 L65.0936061,129.590778 C61.2140163,131.928388 57.2425399,133.851197 53.1791769,135.359203 C49.115814,136.86721 45.1443376,137.892212 41.2647478,138.434211 C45.9600218,133.786158 48.6321515,130.838347 49.2811369,129.590778 C49.8968691,128.407132 50.3767209,126.630423 50.7206923,124.260651 C32.8375705,115.351849 20.875,99.1289634 20.875,80.5933174 C20.875,52.4660937 48.4212699,29.6644737 82.4013158,29.6644737 C116.381362,29.6644737 143.927632,52.4660937 143.927632,80.5933174 C143.927632,108.720541 116.381362,131.522161 82.4013158,131.522161 C76.123141,131.522161 70.0645928,130.743794 64.3588292,129.297282 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

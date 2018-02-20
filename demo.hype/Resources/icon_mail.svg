@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="167px" viewBox="0 0 167 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#2CC4F2" offset="0%"></stop>
+            <stop stop-color="#2A76EC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="App-Icon-Copy" fill="url(#linearGradient-1)" x="0" y="0" width="167" height="167" rx="36"></rect>
+            <path d="M62.4048368,87.3252757 L67.219185,92.1697177 C72.3687087,97.5520638 77.8182413,100.439872 83.5,100.439872 C89.2043789,100.439872 94.4762991,97.5310891 99.2458668,92.0787055 L104.572475,86.7960526 L139.511967,121.953947 L27.4880326,121.953947 L62.4048368,87.3252757 Z M27.4880326,46.1447368 L139.511967,46.1447368 L96.0169234,88.7122005 C91.9913325,93.2944177 87.8190247,95.5855263 83.5,95.5855263 C79.1809753,95.5855263 74.7997065,93.2944177 70.3561935,88.7122005 L27.4880326,46.1447368 Z M25.2697368,49.4407895 L59.6533208,83.5 L25.2697368,117.559211 L25.2697368,49.4407895 Z M141.668799,117.610312 L107.346679,83.5255508 L141.668799,49.4407895 L141.668799,117.610312 Z" id="letter" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

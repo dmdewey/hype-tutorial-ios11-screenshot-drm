@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_sm-airplane</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13,0 L45,-1.77635684e-15 C52.1797017,-3.09524665e-15 58,5.82029825 58,13 L58,45 C58,52.1797017 52.1797017,58 45,58 L13,58 C5.82029825,58 2.29133111e-15,52.1797017 -1.77635684e-15,45 L-1.77635684e-15,13 C-2.65561672e-15,5.82029825 5.82029825,-4.57467025e-16 13,-1.77635684e-15 Z M34.3717193,30.9787181 L22,45 L19,45 L25.5982503,30.9787181 L16.6832193,30.9787181 L12,37 L12,19 L16.6784325,25.0151275 L25.5953541,25.0151275 L19,11 L22,11 L34.366289,25.0151275 L46,25.0151275 C48,25.2166393 49,26.210571 49,27.9969228 C49,29.7832746 48,30.7772063 46,30.9787181 L34.3717193,30.9787181 Z" id="icon_sm-airplane" fill="#FF9500"></path>
+    </g>
+</svg>

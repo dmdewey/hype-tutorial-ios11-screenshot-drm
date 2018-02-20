@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="167px" viewBox="0 0 167 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_photos</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_photos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bg" fill="#FFFFFF" x="0" y="0" width="167" height="167" rx="36"></rect>
+            <g id="Group-9" transform="translate(10.986842, 12.085526)">
+                <path d="M69.6381579,76.9078947 L76.4868421,76.9078947 C86.4279676,76.9078947 94.4868421,84.9667692 94.4868421,94.9078947 L94.4868421,125.927632 C94.4868421,135.868757 86.4279676,143.927632 76.4868421,143.927632 L69.6381579,143.927632 C59.6970324,143.927632 51.6381579,135.868757 51.6381579,125.927632 L51.6381579,94.9078947 C51.6381579,84.9667692 59.6970324,76.9078947 69.6381579,76.9078947 Z" id="Path" fill="#5CABDF" style="mix-blend-mode: multiply;"></path>
+                <path d="M69.6381579,0 L76.4868421,0 C86.4279676,-1.82615513e-15 94.4868421,8.0588745 94.4868421,18 L94.4868421,49.0197368 C94.4868421,58.9608623 86.4279676,67.0197368 76.4868421,67.0197368 L69.6381579,67.0197368 C59.6970324,67.0197368 51.6381579,58.9608623 51.6381579,49.0197368 L51.6381579,18 C51.6381579,8.0588745 59.6970324,1.82615513e-15 69.6381579,0 Z" id="Path-Copy" fill="#F9AA3A" style="mix-blend-mode: multiply;"></path>
+                <rect id="Path-Copy-2" fill="#D385B0" style="mix-blend-mode: multiply;" transform="translate(33.391211, 71.840763) rotate(-270.000000) translate(-33.391211, -71.840763) " x="12.0899211" y="38.4495526" width="42.8486842" height="67.0197368" rx="21.4243421"></rect>
+                <rect id="Path-Copy-3" fill="#B3D650" style="mix-blend-mode: multiply;" transform="translate(111.397789, 71.840763) rotate(-270.000000) translate(-111.397789, -71.840763) " x="90.0965" y="38.4495526" width="42.8486842" height="67.0197368" rx="21.4243421"></rect>
+                <rect id="Path" fill="#A28EC2" style="mix-blend-mode: multiply;" transform="translate(45.265543, 99.101069) rotate(-315.000000) translate(-45.265543, -99.101069) " x="23.9642534" y="65.7098587" width="42.8486842" height="67.0197368" rx="21.4243421"></rect>
+                <rect id="Path-Copy" fill="#EBE228" style="mix-blend-mode: multiply;" transform="translate(99.101069, 44.166859) rotate(-315.000000) translate(-99.101069, -44.166859) " x="77.7997797" y="10.7756482" width="42.8486842" height="67.0197368" rx="21.4243421"></rect>
+                <rect id="Path-Copy-2" fill="#F3705E" style="mix-blend-mode: multiply;" transform="translate(45.265543, 44.166859) rotate(-585.000000) translate(-45.265543, -44.166859) " x="23.9642534" y="10.7756482" width="42.8486842" height="67.0197368" rx="21.4243421"></rect>
+                <rect id="Path-Copy-3" fill="#6AC195" style="mix-blend-mode: multiply;" transform="translate(99.101069, 99.101069) rotate(-585.000000) translate(-99.101069, -99.101069) " x="77.7997797" y="65.7098587" width="42.8486842" height="67.0197368" rx="21.4243421"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="167px" viewBox="0 0 167 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_itunes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F53FC6" offset="0%"></stop>
+            <stop stop-color="#D135FA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_itunes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bg" fill="url(#linearGradient-1)" x="0" y="0" width="167" height="167" rx="36"></rect>
+            <g id="star" transform="translate(15.308333, 20.875000)">
+                <polygon id="Polygon" fill="#FFFCFF" transform="translate(68.721872, 68.095066) scale(1, -1) translate(-68.721872, -68.095066) " points="68.7218725 41.75 95.6937449 61.8758398 85.3914064 94.4401326 52.0523385 94.4401326 41.75 61.8758398"></polygon>
+                <path d="M68.1916667,42.4458333 L51.4916667,43.1416667 L65.4083333,2.78333333 L65.4291705,2.78333333 C65.5978739,1.36277344 66.7703589,0 68.1916667,0 C69.6129744,0 70.7854595,1.36277344 70.9541628,2.78333333 L70.975,2.78333333 L86.2833333,43.8375 L68.1916667,42.4458333 Z" id="Combined-Shape" fill-opacity="0.82" fill="#FFFFFF"></path>
+                <path d="M90.7522026,119.145104 L74.0522026,119.145104 L87.9688692,79.4826043 L87.9897064,79.4826043 C88.1584098,78.0620444 89.3308949,76.6992709 90.7522026,76.6992709 C92.1735103,76.6992709 93.3459954,78.0620444 93.5146987,79.4826043 L93.5355359,79.4826043 L109.861739,122.98282 L90.7522026,119.145104 Z" id="Combined-Shape-Copy-2" fill-opacity="0.82" fill="#FFFFFF" transform="translate(91.956971, 99.841046) rotate(145.000000) translate(-91.956971, -99.841046) "></path>
+                <path d="M43.1378328,120.089298 L26.3872258,122.60223 L40.3544995,80.426798 L40.3753366,80.426798 C40.54404,79.0062381 41.7165251,77.6434646 43.1378328,77.6434646 C44.5591405,77.6434646 45.7316256,79.0062381 45.9003289,80.426798 L45.9211661,80.426798 L61.3885997,119.927875 L43.1378328,120.089298 Z" id="Combined-Shape-Copy-4" fill-opacity="0.82" fill="#FFFFFF" transform="translate(43.887913, 100.122847) scale(-1, 1) rotate(145.000000) translate(-43.887913, -100.122847) "></path>
+                <path d="M27.2633808,74.5257355 L27.264259,74.7258653 L9.56963166,72.9876818 L22.9892737,31.6862703 C23.2755126,30.381036 24.3807472,29.2060051 25.7005254,29.2060051 C26.9715715,29.2060051 28.0436253,30.2958634 28.3767499,31.5422705 L28.3771857,31.5418663 L44.7920124,74.920775 L27.2633808,74.5257355 Z" id="Combined-Shape-Copy-3" fill-opacity="0.82" fill="#FFFFFF" transform="translate(27.180822, 52.063390) scale(-1, 1) rotate(72.000000) translate(-27.180822, -52.063390) "></path>
+                <path d="M109.188366,72.4076058 L91.677965,72.9876818 L105.097607,31.6862703 C105.383846,30.381036 106.489081,29.2060051 107.808859,29.2060051 C109.079905,29.2060051 110.151959,30.2958634 110.485083,31.5422705 L110.485519,31.5418663 L126.900346,74.920775 L109.188366,72.4076058 Z" id="Combined-Shape-Copy-5" fill-opacity="0.82" fill="#FFFFFF" transform="translate(109.289155, 52.063390) rotate(72.000000) translate(-109.289155, -52.063390) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

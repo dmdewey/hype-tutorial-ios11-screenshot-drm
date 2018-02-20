@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="167px" viewBox="0 0 167 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_icloud_files</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1CB5F9" offset="0%"></stop>
+            <stop stop-color="#2AABF8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#18C0FA" offset="0%"></stop>
+            <stop stop-color="#1D76F2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_icloud_files" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bg" fill="#FFFFFF" x="0" y="0" width="167" height="167" rx="36"></rect>
+            <g id="folder" transform="translate(20.875000, 36.256579)">
+                <path d="M125.25,23.0723684 L0,23.0723684 L0,9.41682937 C0.12719886,6.95789464 0.709215944,4.92552273 1.74605125,3.31971365 C2.78288656,1.71390456 4.52607026,0.607333348 6.97560236,0 L34.0051295,0 C36.6339905,1.98869293 38.7875207,3.82514148 40.4657199,5.50934565 C42.1439191,7.19354981 43.6029286,8.49604439 44.8427484,9.41682937 L119.149,9.41682937 C120.960569,9.8380264 122.396638,10.7309614 123.457208,12.0956345 C124.517777,13.4603075 125.115375,15.1841639 125.25,17.2672036 L125.25,23.0723684 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M8.39473684,15.3815789 L116.855263,15.3815789 C119.064402,15.3815789 120.855263,17.1724399 120.855263,19.3815789 L120.855263,23.4671053 C120.855263,25.6762443 119.064402,27.4671053 116.855263,27.4671053 L8.39473684,27.4671053 C6.18559784,27.4671053 4.39473684,25.6762443 4.39473684,23.4671053 L4.39473684,19.3815789 C4.39473684,17.1724399 6.18559784,15.3815789 8.39473684,15.3815789 Z" id="Rectangle-6" fill="#FFFFFF"></path>
+                <path d="M4,18.6776316 L121.25,18.6776316 C123.459139,18.6776316 125.25,20.4684926 125.25,22.6776316 L125.25,88.6842105 C125.25,93.1024885 121.668278,96.6842105 117.25,96.6842105 L8,96.6842105 C3.581722,96.6842105 5.41083001e-16,93.1024885 0,88.6842105 L0,22.6776316 C-2.705415e-16,20.4684926 1.790861,18.6776316 4,18.6776316 Z" id="Rectangle-7" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

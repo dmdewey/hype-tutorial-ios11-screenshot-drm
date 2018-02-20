@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="71px" viewBox="0 0 108 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>toggle_off</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="0" width="96" height="56" rx="28"></rect>
+        <filter x="-7.8%" y="-9.8%" width="115.6%" height="126.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="29" cy="28" r="28"></circle>
+        <filter x="-22.3%" y="-13.4%" width="144.6%" height="144.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.749019608   0 0 0 0 0.749019608   0 0 0 0 0.749019608  0 0 0 0.654268569 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="toggle_off" transform="translate(6.138897, 3.000000)">
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke-opacity="0.183990036" stroke="#000000" stroke-width="2" x="0" y="-1" width="98" height="58" rx="28"></rect>
+            </g>
+            <g id="button" opacity="0.424988678">
+                <g id="bottom_shadow2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke-opacity="0.501217165" stroke="#CCCCCC" stroke-width="1" cx="29" cy="28" r="28.5"></circle>
+                </g>
+                <circle id="bottom_shadow1" fill="#A6A6A6" cx="29" cy="29" r="29"></circle>
+                <circle id="top_off" stroke="#979797" stroke-width="2" fill="#FFFFFF" cx="29" cy="28" r="28"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
